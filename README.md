@@ -2,7 +2,7 @@
 
 kara is a ***RTL*** theme for [Typora](https://typora.io/)
 
-![](/home/mahdi/Projects/typora-theme/images/Screenshot from 2022-08-31 22-39-33.png)
+![](./images/banner-image.png)
 
 
 
