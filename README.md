@@ -24,7 +24,7 @@ currently only supported version is light version
 ![](./images/kara-blue.png)
 
 # Project TODO
-- [ ] fix width of writing section
+- [x] fix width of writing section
 - [ ] add Alert component(green,orange,red) with icon
 - [ ] change edit section to light
 - [ ] add dark mode
