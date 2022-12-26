@@ -25,7 +25,8 @@ currently only supported version is light version
 
 # Project TODO
 - [x] fix width of writing section
-- [ ] add Alert component(green,orange,red) with icon
+- [ ] change background color to gray
 - [ ] change edit section to light
+- [ ] add Alert component(green,orange,red) with icon
 - [ ] add dark mode
 - [ ] add ltr version
