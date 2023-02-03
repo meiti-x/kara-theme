@@ -8,7 +8,7 @@ kara is a delightful ***RTL*** theme for [Typora](https://typora.io/)
 
 ## Installation
 
-1. download latest release from [here](https://github.com/mahdi-momeni/kara-theme/releases/tag/v1.0.0) 
+1. download latest release from [here](https://github.com/mahdi-momeni/kara-theme/releases/) 
 
 2. Decompress the latest release. 
 
