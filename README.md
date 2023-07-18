@@ -25,6 +25,7 @@ currently only supported version is light version
 
 # Project TODO
 - [x] fix width of writing section
+- [ ] must re-write with tailwind
 - [ ] change background color to gray
 - [ ] change edit section to light
 - [ ] add dark mode
